@@ -14,7 +14,3 @@ Criar um app em flutter que atenda uma necessidade da comunidade. Este aplicativ
 9. ter uma documentação
 10. estar em um repositório
 
-## 🚀 Sobre mim
-
-Eu sou Fernando Triches Trevizan acadêmico do curso de Análise e Desenvolvimentos de Sistemas na UPF.
-
